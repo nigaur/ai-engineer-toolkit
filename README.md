@@ -13,6 +13,7 @@ Explore the table below to find the right tools for your AI projects. Most are o
  
 <br>
 **AI Prototype App Builders**
+
 | Tool Name                | Cost Model    | Usage                                                           | Link                                       |
 |--------------------------|---------------|-----------------------------------------------------------------|--------------------------------------------|
 | v0.dev                   | Paid API      | Rapid UI prototyping, now with full-stack development           | [V0.dev](https://v0.dev)  |
