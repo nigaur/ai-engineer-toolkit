@@ -6,19 +6,14 @@ Designed to help software engineers and non-engineers build production-grade AI 
   
 In this repository, you will find every popular framework, tool, and resource to ship one AI project at a time!
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
-
-YOUR TABLE
-
-</details>
 
 ## Tools & Resources for AI Engineers 🏗️
 
 Explore the table below to find the right tools for your AI projects. Most are open-source and completely free.
  
 <br>
-**AI Prototype App Builders**
+<details>
+<summary>AI Prototype App Builders</summary>
 
 | Tool Name                | Cost Model    | Usage                                                           | Link                                       |
 |--------------------------|---------------|-----------------------------------------------------------------|--------------------------------------------|
@@ -26,6 +21,8 @@ Explore the table below to find the right tools for your AI projects. Most are o
 | Bolt.new                 | Paid API      | Human-like reasoning for complex queries                        | [Grok](https://xai.ai/docs)                |
 | Lovable.dev              | Paid API      | Human-like reasoning for complex queries                        | [Grok](https://xai.ai/docs)                |
 | Replit.com               | Paid API      | Human-like reasoning for complex queries                        | [Grok](https://xai.ai/docs)                |
+
+</details>
 
 | Category            | Tool Name                | Cost Model    | Use Case                                  | Link                                       |
 |----------------------|--------------------------|---------------|-------------------------------------------|--------------------------------------------|
