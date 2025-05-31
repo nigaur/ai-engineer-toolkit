@@ -13,10 +13,10 @@ Explore the table below to find the right tools for your AI projects. Most are o
  
 <br>
 
-| Category            | Tool Name                | Cost Model    | Use Case                                  | Link                                       |
+| Category            | Tool Name                | Cost Model    | Usage                                  | Link                                       |
 |----------------------|--------------------------|---------------|-------------------------------------------|--------------------------------------------|
 |**AI Prototype App Builders**  |                          |               |                                           |                                            |
-|                      | v0.dev               | Paid API      | GPT models              | [OpenAI](https://platform.openai.com/docs/)  |
+|                      | v0.dev               | Paid API      | Rapid UI prototyping, now with full-stack development             | [V0.dev](https://v0.dev)  |
 |                      | Bolt.new               | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
 |                      | Lovable.dev              | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
 |                      | Replit.com              | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
