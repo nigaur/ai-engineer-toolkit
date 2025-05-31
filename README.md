@@ -6,13 +6,10 @@ Designed to help software engineers and non-engineers build production-grade AI 
   
 You will find every popular framework, tool, and resource to ship one AI project at a time!
 
-<br>
 
 ## Tools & Resources for AI Engineers 🏗️
 
-Explore the table below to find the right tools for your AI projects.   
-Each category includes cost details, use cases, and links to official documentation.  
-
+Explore the table below to find the right tools for your AI projects. Most are open-source and completely free.
  
 <br>
 
