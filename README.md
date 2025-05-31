@@ -6,6 +6,12 @@ Designed to help software engineers and non-engineers build production-grade AI 
   
 In this repository, you will find every popular framework, tool, and resource to ship one AI project at a time!
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
+
+YOUR TABLE
+
+</details>
 
 ## Tools & Resources for AI Engineers 🏗️
 
