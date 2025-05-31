@@ -20,7 +20,6 @@ Explore the table below to find the right tools for your AI projects. Most are o
 |                      | Bolt.new               | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
 |                      | Lovable.dev              | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
 |                      | Replit.com              | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
-
 |😎  **Model Providers**  |                          |               |                                           |                                            |
 |                      | OpenAI API               | Paid API      | GPT models              | [OpenAI](https://platform.openai.com/docs/)  |
 |                      | Grok (xAI)               | Paid API      | Human-like reasoning for complex queries  | [Grok](https://xai.ai/docs)                |
