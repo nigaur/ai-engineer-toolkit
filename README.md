@@ -4,7 +4,7 @@ Welcome to the **AI Engineer Toolkit**!
 
 Designed to help software engineers and non-engineers build production-grade AI applications from scratch. 
   
-You will find every popular framework, tool, and resource to ship one AI project at a time!
+In this repo, you will find every popular framework, tool, and resource to ship one AI project at a time!
 
 
 ## Tools & Resources for AI Engineers 🏗️
