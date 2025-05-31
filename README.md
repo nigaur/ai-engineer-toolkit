@@ -17,7 +17,7 @@ Explore the table below to find the right tools for your AI projects. Most are o
 
 | Tool Name                | Cost Model    | Usage                                                           | Link                                       |
 |--------------------------|---------------|-----------------------------------------------------------------|--------------------------------------------|
-| v0.dev                   | Paid API      | Rapid UI prototyping, now with full-stack development           | [V0.dev](https://v0.dev)  |
+| v0.dev                   | Paid API      | Rapid UI prototyping, comes with backend services generation for full-stack development           | [V0.dev](https://v0.dev)  |
 | Bolt.new                 | Paid API      | Human-like reasoning for complex queries                        | [Grok](https://xai.ai/docs)                |
 | Lovable.dev              | Paid API      | Human-like reasoning for complex queries                        | [Grok](https://xai.ai/docs)                |
 | Replit.com               | Paid API      | Human-like reasoning for complex queries                        | [Grok](https://xai.ai/docs)                |
