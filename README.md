@@ -200,9 +200,10 @@ Let's start 🏹
 | Streamlit        | Open-Source    | Streamlit is better for rapid prototyping due to its simplicity. It allows to quickly turn data scripts into interactive web apps. | [Streamlit](https://streamlit.io)|
 | Taipy            | Open-Source    | Taipy is an open-source Python library designed to create data-centric web apps suitable for developing production-ready applications. | [Taipy](https://taipy.io)  |
 | Dash          | Open-Source    | Dash is the original open-source and most downloaded low-code Python framework for rapidly building data-driven web apps. | [Dash](https://dash.plotly.com) |
+<br>
 
 <details>
-<summary>AI Application Full-stack Resources</summary>
+<summary>AI Application Resources Full-stack</summary>
 
 | Category            | Tool Name                | Cost Model    | Use Case                                  | Link                                       |
 |----------------------|--------------------------|---------------|-------------------------------------------|--------------------------------------------|
