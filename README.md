@@ -10,12 +10,14 @@ In this repository, you will find every popular framework, tool, and resource to
 ## Tools & Frameworks for AI Engineers 🏗️
 
 Explore the tables below to find the right tools for your AI projects. Most are open-source and completely free!
+<br>
+Although I limited to 3-4 entries per category based on popularity and maturity, there are lot more available!
  
 ### AI Prototype App Builders (Low-code/no-code)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| V0.dev                   | Subscription | Generative UI tool for rapid UI prototyping, supports backend services generation for full-stack.  | [V0.dev](https://v0.dev)         |
+| v0.dev                   | Subscription | Generative UI tool for rapid UI prototyping, supports backend services generation for full-stack.  | [V0.dev](https://v0.dev)         |
 | Bolt.new                 | Subscription | Designed for front-end and full-stack development. It also has its open source version (Bolt.diy).  | [Bolt](https://bolt.new)        |
 | Lovable.dev              | Subscription | Front-end with back-end development with ability to generate full-stack apps from prompts. | [Lovable](https://lovable.dev)    |
 | Replit.com               | Subscription | Replit Agent moves quickly from idea to working prototype for both tech & non-tech creators.  | [Replit](https://replit.com/ai)  |
@@ -37,6 +39,63 @@ Explore the tables below to find the right tools for your AI projects. Most are 
 | Relevance             | Subscription    | Relevance AI is a low-code platform for building and deploying AI agents powered by LLMs. | [Relevance](https://relevanceai.com)      |
 | Lyzr                 | Subscription    | Lyzr Studio is a modular framework for developing role-specific agents powered by LLMs.  | [Lyzr](https://www.lyzr.ai)       |
 | AgentGPT              | Open-Source    | AgentGPT is an open-source AI platform for building and deploying autonomous agents. | [AgentGPT](https://agentgpt.reworkd.ai)    |
+<br>
+
+### AI Orchestration Frameworks (added 'agentic' capability)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| LangChain             | Open-Source    | LangChain is a composable framework to build context-aware reasoning LLMs applications. | [Langchain](https://www.langchain.com)     |
+| LlamaIndex            | Open-Source    | LlamaIndex is a simple, flexible framework for building generative AI and LLM applications.  | [LlamaIndex](https://www.llamaindex.ai)   |
+| Haystack              | Open-Source    | Haystack is a framework for building LLM apps, RAG pipelines and search systems. | [Haystack](https://haystack.deepset.ai) |
+<br>
+
+### AI Multi-Agents Frameworks (native 'agentic' capability)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| CrewAI             | Open-Source    | Popular agent-based AI framework used by leading companies with commercials support. | [CrewAI](https://github.com/crewAIInc/crewAI)|
+| LangGraph            | Open-Source    | LangGraph is a low-level orchestration framework for building controllable agents.   | [LangGraph](https://github.com/langchain-ai/langgraph)  |
+| AutoGen              | Open-Source    | AutoGen is an open-source framework for building AI agent systems from Microsoft. | [AutoGen](https://github.com/microsoft/autogen) |
+| Letta              | Open-Source    | Letta (formerly MemGPT) is an open source framework for building stateful LLM apps. | [Letta](https://github.com/letta-ai/letta) |
+| Agno              | Open-Source    | Agno is a lightweight, high-performance library for building Agents. | [Agno](https://github.com/agno-agi/agno) |
+<br>
+
+### AI Agentic Lightweight Frameworks (Python)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| PydanticAI             | Open-Source    | PydanticAI is a Python agent framework to build production grade apps with LLMs. | [PydanticAI](https://github.com/pydantic/pydantic-ai)|
+| Smolagents            | Open-Source    | Smolagents is a Python library that helps run powerful agents in a few lines of code.   | [Smolagents](https://github.com/huggingface/smolagents)  |
+| Atomic-agents              | Open-Source    | Atomic-agents provides a set of tools and agents to create powerful applications. | [Atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) |
+<br>
+
+### AI Agentic Lightweight Frameworks (Typescript)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| VercelAI             | Open-Source    | AI SDK is a TypeScript toolkit designed to help you build AI-powered applications. | [VercelAI](https://github.com/vercel/ai)|
+| Mastra            | Open-Source    | Mastra is an opinionated TypeScript framework that helps build AI apps and features.   | [Mastra](https://github.com/mastra-ai/mastra)  |
+| BeeAI              | Open-Source    | Build production-ready multi-agent systems in Python or TypeScript. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
+<br>
+
+### AI Agents (SDLC)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| SWE-agent             | Open-Source    | Automatically fix GitHub issue using any LM. Also be employed for offensive cybersecurity. | [SWE-agent](https://github.com/SWE-agent/SWE-agent)|
+| Vaana            | Open-Source    | Chat with SQL database. Python RAG framework for SQL generation related functionality.   | [Mastra](https://github.com/mastra-ai/mastra)  |
+| Keploy               | Open-Source    | Unit, API & Integration Testing Agent. Generate tests, mocks/stubs for your APIs. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
+<br>
+
+### AI Agent Development Tools:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| AutoGPT             | Open-Source    | A platform to create, deploy, and manage continuous AI agents that automate workflows. | [AutoGPT](https://agpt.co)|
+| Dify.ai            | Open-Source    | An LLM app development platform for agentic AI workflow, RAG pipeline, agent capabilities.   | [Dify](https://dify.ai)  |
+| Copilotkit.ai      | Open-Source    | In-app AI chatbots. CoAgents -- Deeply embed vertical AI agents (powered by LangGraph). | [Copilotkit](https://www.copilotkit.ai) |
+
 
 
 <details>
