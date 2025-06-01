@@ -99,7 +99,7 @@ Let's start 🏹
 | Keploy               | Open-Source    | Unit, API & Integration Testing Agent. Generate tests, mocks/stubs for your APIs. | [Keploy](https://github.com/keploy/keploy) |
 <br>
 
-### AI Agent Dev Platforms :
+### AI Agent Dev Platforms
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
