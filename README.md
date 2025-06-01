@@ -7,22 +7,40 @@ Designed to help software engineers and non-engineers build production-grade AI 
 In this repository, you will find every popular framework, tool, and resource to ship one AI project at a time!
 
 
-## Tools & Resources for AI Engineers 🏗️
+## Tools & Frameworks for AI Engineers 🏗️
 
-Explore the table below to find the right tools for your AI projects. Most are open-source and completely free.
+Explore the tables below to find the right tools for your AI projects. Most are open-source and completely free!
  
+### AI Prototype App Builders (Low-code/no-code)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| V0.dev                   | Subscription | Generative UI tool for rapid UI prototyping, supports backend services generation for full-stack.  | [V0.dev](https://v0.dev)         |
+| Bolt.new                 | Subscription | Designed for front-end and full-stack development. It also has its open source version (Bolt.diy).  | [Bolt](https://bolt.new)        |
+| Lovable.dev              | Subscription | Front-end with back-end development with ability to generate full-stack apps from prompts. | [Lovable](https://lovable.dev)    |
+| Replit.com               | Subscription | Replit Agent moves quickly from idea to working prototype for both tech & non-tech creators.  | [Replit](https://replit.com/ai)  |
 <br>
+
+### AI Workflow Builders (Low-code/no-code)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| n8n.io                   | Open-Source    | n8n is a no-code workflow automation platform that gives dev teams the flexibility of code.   | [n8n.io](https://n8n.io)         |
+| Langflow                 | Open-Source    | Langflow is a low-code AI builder for agentic and retrieval-augmented generation (RAG) apps.  | [Langflow](https://www.langflow.org)       |
+| Flowise.ai              | Open-Source    | Flowise is low-code tool for developers to build customized LLM orchestration flow, AI agents. | [Flowise](https://flowiseai.com)    |
+<br>
+
+### AI Agent Builders (Low-code/no-code)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Relevance             | Subscription    | Relevance AI is a low-code platform for building and deploying AI agents powered by LLMs. | [Relevance](https://relevanceai.com)      |
+| Lyzr                 | Subscription    | Lyzr Studio is a modular framework for developing role-specific agents powered by LLMs.  | [Lyzr](https://www.lyzr.ai)       |
+| AgentGPT              | Open-Source    | AgentGPT is an open-source AI platform for building and deploying autonomous agents. | [AgentGPT](https://agentgpt.reworkd.ai)    |
+
+
 <details>
-<summary>AI Prototype App Builders (Low-code/no-code)</summary>
-
-| Tool Name                | Cost Model    | Usage                                                                                         | Link                                   |
-|--------------------------|---------------|-----------------------------------------------------------------------------------------------|----------------------------------------|
-| v0.dev                   | Paid API      | A generative UI tool for rapid UI prototyping, supports backend services generation for full-stack       | [V0.dev](https://v0.dev)               |
-| Bolt.new                 | Paid API      | Human-like reasoning for complex queries                                                      | [Grok](https://xai.ai/docs)            |
-| Lovable.dev              | Paid API      | Human-like reasoning for complex queries                                                      | [Grok](https://xai.ai/docs)            |
-| Replit.com               | Paid API      | Human-like reasoning for complex queries                                                      | [Grok](https://xai.ai/docs)            |
-
-</details>
+<summary>More...</summary>
 
 | Category            | Tool Name                | Cost Model    | Use Case                                  | Link                                       |
 |----------------------|--------------------------|---------------|-------------------------------------------|--------------------------------------------|
@@ -105,3 +123,4 @@ Explore the table below to find the right tools for your AI projects. Most are o
 |                      | Kubernetes               | Open-Source   | Orchestrate and scale containerized apps  | [Kubernetes](https://kubernetes.io/docs/)  |
 |                      | Heroku                   | Freemium      | Quick deployment for prototypes and MVPs  | [Heroku](https://devcenter.heroku.com/)    |
 |                      | Render                   | Freemium      | Build, deploy, and scale your apps with ease  | [Render](https://render.com/docs/) |
+</details>
