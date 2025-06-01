@@ -37,6 +37,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 | Relevance             | Subscription    | Relevance AI is a low-code platform for building and deploying AI agents powered by LLMs. | [Relevance](https://relevanceai.com)      |
 | Lyzr                 | Subscription    | Lyzr Studio is a modular framework for developing role-specific agents powered by LLMs.  | [Lyzr](https://www.lyzr.ai)       |
 | AgentGPT              | Open-Source    | AgentGPT is an open-source AI platform for building and deploying autonomous agents. | [AgentGPT](https://agentgpt.reworkd.ai)    |
+| AutoAgent            | Open-Source   | Automated and No-Code LLM agent framework based on https://arxiv.org/abs/2502.05957 | [AutoAgent](https://github.com/HKUDS/AutoAgent)  |
 <br>
 
 ### AI Orchestration Frameworks (added 'agentic' capability)
@@ -57,6 +58,15 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 | AutoGen              | Open-Source    | AutoGen is an open-source framework for building AI agent systems from Microsoft. | [AutoGen](https://github.com/microsoft/autogen) |
 | Letta              | Open-Source    | Letta (formerly MemGPT) is an open source framework for building stateful LLM apps. | [Letta](https://github.com/letta-ai/letta) |
 | Agno              | Open-Source    | Agno is a lightweight, high-performance library for building Agents. | [Agno](https://github.com/agno-agi/agno) |
+<br>
+
+### AI Agent Development SDKs :
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| OpenAI SDK             | Open-Source    | Build agentic AI apps in a lightweight, easy-to-use package with low abstractions. | [OpenAI SDK](https://github.com/crewAIInc/crewAI)|
+| Google ADK            | Open-Source    | Developing and deploying AI agents optimized for Gemini and Google ecosystem.   | [Google ADK](https://google.github.io/adk-docs)  |
+| Semantic Kernel              | Open-Source    | Model-agnostic SDK to build, orchestrate and deploy AI agents and multi-agents. | [Semantic Kernel](https://aka.ms/semantic-kernel) |
 <br>
 
 ### AI Agentic Lightweight Frameworks (Python)
@@ -86,23 +96,107 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 | Keploy               | Open-Source    | Unit, API & Integration Testing Agent. Generate tests, mocks/stubs for your APIs. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
 <br>
 
-### AI Agent Development Tools:
+### AI Agent Dev Platforms :
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | AutoGPT             | Open-Source    | A platform to create, deploy, and manage continuous AI agents that automate workflows. | [AutoGPT](https://agpt.co)|
 | Dify.ai            | Open-Source    | An LLM app development platform for agentic AI workflow, RAG pipeline, agent capabilities.   | [Dify](https://dify.ai)  |
 | Copilotkit.ai      | Open-Source    | In-app AI chatbots. CoAgents -- Deeply embed vertical AI agents (powered by LangGraph). | [Copilotkit](https://www.copilotkit.ai) |
+| Weave           | Open-Source    | Weave (by Weights & Biases) is a toolkit for developing, deploying AI-powered applications.   | [Weave](https://weave-docs.wandb.ai)  |
 <br>
 
-### AI Development (Special use):
+### AI Frameworks (RAG specific):
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| RAGFlow             | Open-Source    | An open-source RAG engine based on deep document understanding. | [RAGFlow](https://github.com/infiniflow/ragflow)|
+| LightRAG            | Open-Source    | Simple and Fast RAG based on paper https://arxiv.org/abs/2410.05779 | [LightRAG](https://github.com/HKUDS/LightRAG)  |
+| GraphRAG              | Open-Source    | A modular graph-based Retrieval-Augmented Generation (RAG) system | [GraphRAG](https://github.com/microsoft/graphrag) |
+<br>
+
+### AI Frameworks (Special use):
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | PocketFlow             | Open-Source    | A 100-line minimalist LLM framework for (Multi-)Agents, Task Decomposition, RAG, etc. | [PocketFlow](https://github.com/The-Pocket/PocketFlow)|
 | Graphiti            | Open-Source    | Framework for building and querying Real-Time Knowledge Graphs, for AI Agents. | [Graphiti](https://github.com/getzep/graphiti)  |
-| Mem0     | Open-Source    | Mem0 enhances AI assistants and agents with an intelligent memory layer. | [Mem0](https://github.com/mem0ai/mem0) |
+| Mem0               | Open-Source    | Mem0 enhances AI assistants and agents with an intelligent memory layer. | [Mem0](https://github.com/mem0ai/mem0) |
+<br>
 
+### LLM Engineering and LLMOps:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Arize-Phoenix        | Open-Source    | LLM tracing, evaluation library for experimentation, evaluation, troubleshooting. | [Phoenix](https://phoenix.arize.com)|
+| Langfuse           | Open-Source    | LLM engineering platform for observability, metrics, evals, prompt management. | [Langfuse](https://langfuse.com)  |
+| Openllmetry          | Open-Source    | An open-source observability for LLM application, based on OpenTelemetry. | [Openllmetry](https://github.com/traceloop/openllmetry) |
+| Helicone          | Open-Source    | LLM observability platform. One line of code to monitor, evaluate, experiment.  | [Helicone](https://github.com/Helicone/helicone) |
+| NeMo-Guardrails     | Open-Source    | Toolkit for adding programmable guardrails to LLM-based conversational apps. | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
+<br>
+
+### LLM Gateway / Proxy server:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Litellm             | Open-Source    | Call all LLM APIs using the OpenAI format (Bedrock, Huggingface, VertexAI, TogetherAI etc.) | [Litellm](https://github.com/BerriAI/litellm)|
+| Portkey-AI           | Open-Source    | A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails. | [Portkey-AI](https://github.com/Portkey-AI/gateway)  |
+| Archgw             | Open-Source    | The AI-native proxy server for agentic applications. Built by the contributors of Envoy proxy. | [Archgw](https://github.com/katanemo/archgw) |
+<br>
+
+### LLM Inference Engines:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| vLLM             | Open-Source    | A high-throughput and memory-efficient inference and serving engine for LLMs. | [vLLM](https://github.com/vllm-project/vllm)|
+| OpenLLM           | Open-Source    | Run any open-source LLMs (DeepSeek, Llama...) as OpenAI compatible API endpoint in cloud. | [OpenLLM](https://github.com/bentoml/OpenLLM)  |
+| Lightllm          | Open-Source    | A LLM inference and serving framework with lightweight design and high-speed performance. | [Lightllm](https://github.com/ModelTC/lightllm) |
+<br>
+
+### LLM Inference Platforms:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Together.ai        | Commercial    |End-to-end platform for the full generative AI lifecycle. Leverage pre-trained models, fine-tune or build models from scratch. | [Together](https://www.together.ai)|
+| Fireworks.ai           | Commercial    | Fireworks AI is a generative AI inference platform to run and customize models with industry-leading speed and production-readiness. | [Fireworks](https://fireworks.ai)  |
+| Unsloth.ai          | Commercial    | Fine-tune and train LLMs like Llama-3, Mistral, Phi-4 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy. | [Unsloth](https://unsloth.ai) |
+<br>
+
+### LLM Apps Evaluation Frameworks:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| DeepEval        | Open-Source    | DeepEval is an open-source LLM eval framework for evaluating and testing LLM systems. | [DeepEval](https://github.com/confident-ai/deepeval)|
+| Opik           | Open-Source    | Ragas is your ultimate toolkit for evaluating and optimizing LLM applications. | [Opik](https://github.com/explodinggradients/ragas)  |
+| Ragas          | Open-Source    | Opik is an open-source platform for evaluating, testing and monitoring LLM applications. | [Ragas](https://github.com/comet-ml/opik) |
+| Evidently          | Open-Source    | Evidently is an open-source ML and LLM observability framework.  | [Evidently](https://github.com/evidentlyai/evidently) |
+<br>
+
+### LLM Standards (prompting):
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Guidance        | Open-Source    | Guidance is an efficient programming paradigm for steering language models. | [Guidance](https://github.com/guidance-ai/guidance)|
+| Outlines           | Open-Source    | Structured text generation and robust prompting for language models. | [Outlines](https://github.com/dottxt-ai/outlines)  |
+| Instructor          | Open-Source    | Instructor is a Python library for working with structured outputs from LLMs. | [Instructor](https://github.com/instructor-ai/instructor) |
+<br>
+
+### LLM Standards (protocols):
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| MCP        | Open-Source    | MCP is an open protocol that standardizes how applications provide context to LLMs. | [MCP](https://modelcontextprotocol.io)|
+| A2A            | Open-Source    | Multimodal communication between agents without sharing memory, resources and tools. | [A2A](https://google.github.io/A2A)  |
+| OWASP          | Open-Source    | Top 10 Risk & Mitigations for LLMs and Gen AI Applications. | [OWASP](https://genai.owasp.org/llm-top-10) |
+<br>
+
+### Python App Builders:
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Streamlit        | Open-Source    | Streamlit is better for rapid prototyping due to its simplicity. It allows to quickly turn data scripts into interactive web apps. | [Streamlit](https://streamlit.io)|
+| Taipy            | Open-Source    | Taipy is an open-source Python library designed to create data-centric web apps suitable for developing production-ready applications. | [Taipy](https://taipy.io)  |
+| Dash          | Open-Source    | ash is the original open-source and most downloaded low-code Python framework for rapidly building data-driven web apps. | [Dash](https://dash.plotly.com) |
 
 <details>
 <summary>More...</summary>
