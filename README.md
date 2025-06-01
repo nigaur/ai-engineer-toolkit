@@ -13,7 +13,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 
 Let's start 🏹
  
-### AI Prototype App Builders (Low-code/no-code)
+* ### AI Prototype App Builders (Low-code/no-code)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -23,7 +23,7 @@ Let's start 🏹
 | Replit.com               | Subscription | Replit Agent moves quickly from idea to working prototype for both tech & non-tech creators.  | [Replit](https://replit.com/ai)  |
 <br>
 
-### AI Workflow Builders (Low-code/no-code)
+* ### AI Workflow Builders (Low-code/no-code)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -32,7 +32,7 @@ Let's start 🏹
 | Flowise.ai              | Open-Source    | Flowise is low-code tool for developers to build customized LLM orchestration flow, AI agents. | [Flowise](https://flowiseai.com)    |
 <br>
 
-### AI Agent Builders (Low-code/no-code)
+* ### AI Agent Builders (Low-code/no-code)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -42,7 +42,7 @@ Let's start 🏹
 | AutoAgent            | Open-Source   | Automated and No-Code LLM agent framework based on https://arxiv.org/abs/2502.05957 | [AutoAgent](https://github.com/HKUDS/AutoAgent)  |
 <br>
 
-### AI Orchestration Frameworks (added 'agentic' capability)
+* ### AI Orchestration Frameworks (added 'agentic' capability)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -53,7 +53,7 @@ Let's start 🏹
 | Letta              | Open-Source    | Letta (formerly MemGPT) is an open source framework for building stateful LLM apps. | [Letta](https://github.com/letta-ai/letta) |
 <br>
 
-### AI Multi-Agents Frameworks (native 'agentic' capability)
+* ### AI Multi-Agents Frameworks (native 'agentic' capability)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -64,7 +64,7 @@ Let's start 🏹
 | PraisonAI            | Open-Source   | PraisonAI is a Multi-AI Agents framework with self-reflection to create AI Agents. | [PraisonAI](https://github.com/MervinPraison/PraisonAI)  |
 <br>
 
-### AI Agent Development SDKs
+* ### AI Agent Development SDKs
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -74,7 +74,7 @@ Let's start 🏹
 | Semantic Kernel              | Open-Source    | Model-agnostic SDK to build, orchestrate and deploy AI agents and multi-agents. | [Semantic Kernel](https://aka.ms/semantic-kernel) |
 <br>
 
-### AI Agentic Libraries (Python)
+* ### AI Agentic Libraries (Python)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -83,7 +83,7 @@ Let's start 🏹
 | Atomic-agents              | Open-Source    | Atomic-agents provides a set of tools and agents to create powerful applications. | [Atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) |
 <br>
 
-### AI Agentic Libraries (Typescript)
+* ### AI Agentic Libraries (Typescript)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -92,7 +92,7 @@ Let's start 🏹
 | Motia              | Open-Source    | Motia is unified Backend for APIs, Events, and Agents built in Typescript. | [Motia](https://github.com/MotiaDev/motia) |
 <br>
 
-### AI Agents (SDLC use)
+* ### AI Agents (SDLC use)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -101,7 +101,7 @@ Let's start 🏹
 | Keploy               | Open-Source    | Unit, API & Integration Testing Agent. Generate tests, mocks/stubs for your APIs. | [Keploy](https://github.com/keploy/keploy) |
 <br>
 
-### AI Agent Dev Platforms
+* ### AI Agent Dev Platforms
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -111,7 +111,7 @@ Let's start 🏹
 | Weave           | Open-Source    | Weave (by Weights & Biases) is a toolkit for developing, deploying AI-powered applications.   | [Weave](https://weave-docs.wandb.ai)  |
 <br>
 
-### AI Frameworks (RAG specific)
+* ### AI Frameworks (RAG specific)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -120,7 +120,7 @@ Let's start 🏹
 | GraphRAG              | Open-Source    | A modular graph-based Retrieval-Augmented Generation (RAG) system | [GraphRAG](https://github.com/microsoft/graphrag) |
 <br>
 
-### AI Frameworks (Special use)
+* ### AI Frameworks (Special use)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -129,7 +129,7 @@ Let's start 🏹
 | Mem0               | Open-Source    | Mem0 enhances AI assistants and agents with an intelligent memory layer. | [Mem0](https://github.com/mem0ai/mem0) |
 <br>
 
-### LLM Engineering and LLMOps
+* ### LLM Engineering and LLMOps
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -140,7 +140,7 @@ Let's start 🏹
 | NeMo-Guardrails     | Open-Source    | Toolkit for adding programmable guardrails to LLM-based conversational apps. | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
 <br>
 
-### LLM Gateway / Proxy server
+* ### LLM Gateway / Proxy server
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -149,7 +149,7 @@ Let's start 🏹
 | Archgw             | Open-Source    | The AI-native proxy server for agentic applications. Built by the contributors of Envoy proxy. | [Archgw](https://github.com/katanemo/archgw) |
 <br>
 
-### LLM Inference Engines
+* ### LLM Inference Engines
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -158,7 +158,7 @@ Let's start 🏹
 | LightLLM          | Open-Source    | A LLM inference and serving framework with lightweight design and high-speed performance. | [LightLLM](https://github.com/ModelTC/lightllm) |
 <br>
 
-### LLM Inference Platforms
+* ### LLM Inference Platforms
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -167,7 +167,7 @@ Let's start 🏹
 | Unsloth.ai          | Commercial    | Fine-tune and train LLMs like Llama-3, Mistral, Phi-4 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy. | [Unsloth](https://unsloth.ai) |
 <br>
 
-### LLM Apps Evaluation Frameworks
+* ### LLM Apps Evaluation Frameworks
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -177,7 +177,7 @@ Let's start 🏹
 | Evidently          | Open-Source    | Evidently is an open-source ML and LLM observability framework.  | [Evidently](https://github.com/evidentlyai/evidently) |
 <br>
 
-### LLM Standards (prompting)
+* ### LLM Standards (prompting)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -186,7 +186,7 @@ Let's start 🏹
 | Instructor          | Open-Source    | Instructor is a Python library for working with structured outputs from LLMs. | [Instructor](https://github.com/instructor-ai/instructor) |
 <br>
 
-### LLM Standards (protocols)
+* ### LLM Standards (protocols)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -195,7 +195,7 @@ Let's start 🏹
 | OWASP          | Open-Source    | Top 10 Risk & Mitigations for LLMs and Gen AI Applications. | [OWASP](https://genai.owasp.org/llm-top-10) |
 <br>
 
-### Python App Builders
+* ### Python App Builders
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
