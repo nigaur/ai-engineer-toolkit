@@ -38,7 +38,7 @@ Let's start 🏹
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | Relevance             | Subscription    | Relevance AI is a low-code platform for building and deploying AI agents powered by LLMs. | [Relevance](https://relevanceai.com)      |
 | Lyzr                 | Subscription    | Lyzr Studio is a modular framework for developing role-specific agents powered by LLMs.  | [Lyzr](https://www.lyzr.ai)       |
-| AgentGPT              | Open-Source    | AgentGPT is an open-source AI platform for building and deploying autonomous agents. | [AgentGPT](https://agentgpt.reworkd.ai)    |
+| AgentGPT              | Open-Source    | AgentGPT is an open-source AI platform for building and deploying autonomous agents. | [AgentGPT](https://github.com/reworkd/AgentGPT)    |
 | AutoAgent            | Open-Source   | Automated and No-Code LLM agent framework based on https://arxiv.org/abs/2502.05957 | [AutoAgent](https://github.com/HKUDS/AutoAgent)  |
 <br>
 
@@ -48,7 +48,9 @@ Let's start 🏹
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | LangChain             | Open-Source    | LangChain is a composable framework to build context-aware reasoning LLMs applications. | [Langchain](https://www.langchain.com)     |
 | LlamaIndex            | Open-Source    | LlamaIndex is a simple, flexible framework for building generative AI and LLM applications.  | [LlamaIndex](https://www.llamaindex.ai)   |
+| Spring AI              | Open-Source    | Spring AI provides a Spring-friendly API and abstractions for developing AI applications. | [Spring AI](https://github.com/spring-projects/spring-ai) |
 | Haystack              | Open-Source    | Haystack is a framework for building LLM apps, RAG pipelines and search systems. | [Haystack](https://haystack.deepset.ai) |
+| Letta              | Open-Source    | Letta (formerly MemGPT) is an open source framework for building stateful LLM apps. | [Letta](https://github.com/letta-ai/letta) |
 <br>
 
 ### AI Multi-Agents Frameworks (native 'agentic' capability)
@@ -58,20 +60,21 @@ Let's start 🏹
 | CrewAI             | Open-Source    | Popular agent-based AI framework used by leading companies with commercials support. | [CrewAI](https://github.com/crewAIInc/crewAI)|
 | LangGraph            | Open-Source    | LangGraph is a low-level orchestration framework for building controllable agents.   | [LangGraph](https://github.com/langchain-ai/langgraph)  |
 | AutoGen              | Open-Source    | AutoGen is an open-source framework for building AI agent systems from Microsoft. | [AutoGen](https://github.com/microsoft/autogen) |
-| Letta              | Open-Source    | Letta (formerly MemGPT) is an open source framework for building stateful LLM apps. | [Letta](https://github.com/letta-ai/letta) |
 | Agno              | Open-Source    | Agno is a lightweight, high-performance library for building Agents. | [Agno](https://github.com/agno-agi/agno) |
+| PraisonAI            | Open-Source   | PraisonAI is a Multi-AI Agents framework with self-reflection to create AI Agents. | [PraisonAI](https://github.com/MervinPraison/PraisonAI)  |
 <br>
 
 ### AI Agent Development SDKs
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| VercelAI SDK           | Open-Source    | AI SDK is a TypeScript toolkit designed to help you build AI-powered applications. | [VercelAI SDK](https://github.com/vercel/ai)|
 | OpenAI SDK             | Open-Source    | Build agentic AI apps in a lightweight, easy-to-use package with low abstractions. | [OpenAI SDK](https://openai.github.io/openai-agents-python)|
 | Google ADK            | Open-Source    | Developing and deploying AI agents optimized for Gemini and Google ecosystem.   | [Google ADK](https://google.github.io/adk-docs)  |
 | Semantic Kernel              | Open-Source    | Model-agnostic SDK to build, orchestrate and deploy AI agents and multi-agents. | [Semantic Kernel](https://aka.ms/semantic-kernel) |
 <br>
 
-### AI Agentic Lightweight Frameworks (Python)
+### AI Agentic Libraries (Python)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -80,14 +83,13 @@ Let's start 🏹
 | Atomic-agents              | Open-Source    | Atomic-agents provides a set of tools and agents to create powerful applications. | [Atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) |
 <br>
 
-### AI Agentic Lightweight Frameworks (Typescript)
+### AI Agentic Libraries (Typescript)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| VercelAI             | Open-Source    | AI SDK is a TypeScript toolkit designed to help you build AI-powered applications. | [VercelAI](https://github.com/vercel/ai)|
 | Mastra            | Open-Source    | Mastra is an opinionated TypeScript framework that helps build AI apps and features.   | [Mastra](https://github.com/mastra-ai/mastra)  |
+| VoltAgent          | Open-Source    | VoltAgent is a TypeScript framework for building and orchestrating AI agents. | [VoltAgent](https://github.com/VoltAgent/voltagent) |
 | Motia              | Open-Source    | Motia is unified Backend for APIs, Events, and Agents built in Typescript. | [Motia](https://github.com/MotiaDev/motia) |
-| BeeAI              | Open-Source    | Build production-ready multi-agent systems in Python or TypeScript. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
 <br>
 
 ### AI Agents (SDLC use)
