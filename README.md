@@ -62,7 +62,7 @@ Let's start 🏹
 | Agno              | Open-Source    | Agno is a lightweight, high-performance library for building Agents. | [Agno](https://github.com/agno-agi/agno) |
 <br>
 
-### AI Agent Development SDKs :
+### AI Agent Development SDKs
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -109,7 +109,7 @@ Let's start 🏹
 | Weave           | Open-Source    | Weave (by Weights & Biases) is a toolkit for developing, deploying AI-powered applications.   | [Weave](https://weave-docs.wandb.ai)  |
 <br>
 
-### AI Frameworks (RAG specific):
+### AI Frameworks (RAG specific)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -118,7 +118,7 @@ Let's start 🏹
 | GraphRAG              | Open-Source    | A modular graph-based Retrieval-Augmented Generation (RAG) system | [GraphRAG](https://github.com/microsoft/graphrag) |
 <br>
 
-### AI Frameworks (Special use):
+### AI Frameworks (Special use)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -127,7 +127,7 @@ Let's start 🏹
 | Mem0               | Open-Source    | Mem0 enhances AI assistants and agents with an intelligent memory layer. | [Mem0](https://github.com/mem0ai/mem0) |
 <br>
 
-### LLM Engineering and LLMOps:
+### LLM Engineering and LLMOps
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -138,7 +138,7 @@ Let's start 🏹
 | NeMo-Guardrails     | Open-Source    | Toolkit for adding programmable guardrails to LLM-based conversational apps. | [NeMo-Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) |
 <br>
 
-### LLM Gateway / Proxy server:
+### LLM Gateway / Proxy server
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -147,7 +147,7 @@ Let's start 🏹
 | Archgw             | Open-Source    | The AI-native proxy server for agentic applications. Built by the contributors of Envoy proxy. | [Archgw](https://github.com/katanemo/archgw) |
 <br>
 
-### LLM Inference Engines:
+### LLM Inference Engines
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -156,7 +156,7 @@ Let's start 🏹
 | LightLLM          | Open-Source    | A LLM inference and serving framework with lightweight design and high-speed performance. | [LightLLM](https://github.com/ModelTC/lightllm) |
 <br>
 
-### LLM Inference Platforms:
+### LLM Inference Platforms
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -165,7 +165,7 @@ Let's start 🏹
 | Unsloth.ai          | Commercial    | Fine-tune and train LLMs like Llama-3, Mistral, Phi-4 and Gemma 2x faster, use 70% less memory, and with no degradation in accuracy. | [Unsloth](https://unsloth.ai) |
 <br>
 
-### LLM Apps Evaluation Frameworks:
+### LLM Apps Evaluation Frameworks
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -175,7 +175,7 @@ Let's start 🏹
 | Evidently          | Open-Source    | Evidently is an open-source ML and LLM observability framework.  | [Evidently](https://github.com/evidentlyai/evidently) |
 <br>
 
-### LLM Standards (prompting):
+### LLM Standards (prompting)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -184,7 +184,7 @@ Let's start 🏹
 | Instructor          | Open-Source    | Instructor is a Python library for working with structured outputs from LLMs. | [Instructor](https://github.com/instructor-ai/instructor) |
 <br>
 
-### LLM Standards (protocols):
+### LLM Standards (protocols)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -193,7 +193,7 @@ Let's start 🏹
 | OWASP          | Open-Source    | Top 10 Risk & Mitigations for LLMs and Gen AI Applications. | [OWASP](https://genai.owasp.org/llm-top-10) |
 <br>
 
-### Python App Builders:
+### Python App Builders
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
