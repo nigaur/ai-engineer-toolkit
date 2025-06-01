@@ -64,7 +64,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| OpenAI SDK             | Open-Source    | Build agentic AI apps in a lightweight, easy-to-use package with low abstractions. | [OpenAI SDK](https://github.com/crewAIInc/crewAI)|
+| OpenAI SDK             | Open-Source    | Build agentic AI apps in a lightweight, easy-to-use package with low abstractions. | [OpenAI SDK](https://openai.github.io/openai-agents-python)|
 | Google ADK            | Open-Source    | Developing and deploying AI agents optimized for Gemini and Google ecosystem.   | [Google ADK](https://google.github.io/adk-docs)  |
 | Semantic Kernel              | Open-Source    | Model-agnostic SDK to build, orchestrate and deploy AI agents and multi-agents. | [Semantic Kernel](https://aka.ms/semantic-kernel) |
 <br>
@@ -84,6 +84,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | VercelAI             | Open-Source    | AI SDK is a TypeScript toolkit designed to help you build AI-powered applications. | [VercelAI](https://github.com/vercel/ai)|
 | Mastra            | Open-Source    | Mastra is an opinionated TypeScript framework that helps build AI apps and features.   | [Mastra](https://github.com/mastra-ai/mastra)  |
+| Motia              | Open-Source    | Motia is unified Backend for APIs, Events, and Agents built in Typescript. | [Motia](https://github.com/MotiaDev/motia) |
 | BeeAI              | Open-Source    | Build production-ready multi-agent systems in Python or TypeScript. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
 <br>
 
@@ -92,8 +93,8 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | SWE-agent             | Open-Source    | Automatically fix GitHub issue using any LM. Also be employed for offensive cybersecurity. | [SWE-agent](https://github.com/SWE-agent/SWE-agent)|
-| Vaana            | Open-Source    | Chat with SQL database. Python RAG framework for SQL generation related functionality.   | [Mastra](https://github.com/mastra-ai/mastra)  |
-| Keploy               | Open-Source    | Unit, API & Integration Testing Agent. Generate tests, mocks/stubs for your APIs. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
+| Vaana            | Open-Source    | Chat with SQL database. Python RAG framework for SQL generation related functionality.   | [Vaana](https://github.com/vanna-ai/vanna)  |
+| Keploy               | Open-Source    | Unit, API & Integration Testing Agent. Generate tests, mocks/stubs for your APIs. | [Keploy](https://github.com/keploy/keploy) |
 <br>
 
 ### AI Agent Dev Platforms :
@@ -167,8 +168,8 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | DeepEval        | Open-Source    | DeepEval is an open-source LLM eval framework for evaluating and testing LLM systems. | [DeepEval](https://github.com/confident-ai/deepeval)|
-| Opik           | Open-Source    | Ragas is your ultimate toolkit for evaluating and optimizing LLM applications. | [Opik](https://github.com/explodinggradients/ragas)  |
-| Ragas          | Open-Source    | Opik is an open-source platform for evaluating, testing and monitoring LLM applications. | [Ragas](https://github.com/comet-ml/opik) |
+| Opik           | Open-Source    | Ragas is your ultimate toolkit for evaluating and optimizing LLM applications. | [Opik](https://github.com/comet-ml/opik)  |
+| Ragas          | Open-Source    | Opik is an open-source platform for evaluating, testing and monitoring LLM applications. | [Ragas](https://github.com/explodinggradients/ragas) |
 | Evidently          | Open-Source    | Evidently is an open-source ML and LLM observability framework.  | [Evidently](https://github.com/evidentlyai/evidently) |
 <br>
 
@@ -199,7 +200,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 | Dash          | Open-Source    | ash is the original open-source and most downloaded low-code Python framework for rapidly building data-driven web apps. | [Dash](https://dash.plotly.com) |
 
 <details>
-<summary>More...</summary>
+<summary>AI Application Full-stack Resources</summary>
 
 | Category            | Tool Name                | Cost Model    | Use Case                                  | Link                                       |
 |----------------------|--------------------------|---------------|-------------------------------------------|--------------------------------------------|
@@ -249,7 +250,6 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 |                      | AG2 (AgentGraph)         | Open-Source   | Multi-agent orchestrators              | [AG2](https://github.com/ag2ai/ag2)  |
 |                      | CrewAI                   | Open-Source   | Multi-agent workflows for automation      | [CrewAI](https://docs.crewai.com/)           |
 |                      | AutoGen                  | Open-Source   | Conversational agents with flexibility    | [AutoGen](https://microsoft.github.io/autogen/) |
-|                      | Wetrocloud                  | Paid API   | RAG development with any resource type (YouTube, web, doc, json, etc.)    | [Wetrocloud](https://wetrocloud.com/) |
 | 🕸️ **Web Data Access**  |                          |               |                                           |                                            |
 |                      | Firecrawl                | Freemium      | Web scraping with caching                 | [Firecrawl](https://firecrawl.dev/)             |
 |                      | Jina AI Reader API       | Freemium      | Extract structured data from web pages    | [Jina AI](https://jina.ai/reader)             |
