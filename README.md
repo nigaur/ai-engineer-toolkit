@@ -10,6 +10,8 @@ In this repository, you will find every popular framework, tool, and resource to
 Explore the tables below to find the right tools for your AI projects. Most are open-source and completely free!
 
 Although entries per category are limited to 3-4 based on popularity and maturity, there are lot more available!
+
+Let's start 🏹
  
 ### AI Prototype App Builders (Low-code/no-code)
 
