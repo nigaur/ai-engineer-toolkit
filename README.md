@@ -140,7 +140,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| Litellm             | Open-Source    | Call all LLM APIs using the OpenAI format (Bedrock, Huggingface, VertexAI, TogetherAI etc.) | [Litellm](https://github.com/BerriAI/litellm)|
+| LiteLLM             | Open-Source    | Call all LLM APIs using the OpenAI format (Bedrock, Huggingface, VertexAI, TogetherAI etc.) | [LiteLLM](https://github.com/BerriAI/litellm)|
 | Portkey-AI           | Open-Source    | A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails. | [Portkey-AI](https://github.com/Portkey-AI/gateway)  |
 | Archgw             | Open-Source    | The AI-native proxy server for agentic applications. Built by the contributors of Envoy proxy. | [Archgw](https://github.com/katanemo/archgw) |
 <br>
@@ -151,7 +151,7 @@ Although entries per category are limited to 3-4 based on popularity and maturit
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | vLLM             | Open-Source    | A high-throughput and memory-efficient inference and serving engine for LLMs. | [vLLM](https://github.com/vllm-project/vllm)|
 | OpenLLM           | Open-Source    | Run any open-source LLMs (DeepSeek, Llama...) as OpenAI compatible API endpoint in cloud. | [OpenLLM](https://github.com/bentoml/OpenLLM)  |
-| Lightllm          | Open-Source    | A LLM inference and serving framework with lightweight design and high-speed performance. | [Lightllm](https://github.com/ModelTC/lightllm) |
+| LightLLM          | Open-Source    | A LLM inference and serving framework with lightweight design and high-speed performance. | [LightLLM](https://github.com/ModelTC/lightllm) |
 <br>
 
 ### LLM Inference Platforms:
