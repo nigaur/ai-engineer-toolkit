@@ -1,8 +1,6 @@
 # AI Engineer Toolkit 🛠️
   
-Welcome to the **AI Engineer Toolkit**! 
-
-Designed to help software engineers and non-engineers build production-grade AI applications from scratch. 
+Welcome to the **AI Engineer Toolkit**!
   
 In this repository, you will find every popular framework, tool, and resource to ship one AI project at a time!
 
@@ -10,8 +8,8 @@ In this repository, you will find every popular framework, tool, and resource to
 ## Tools & Frameworks for AI Engineers 🏗️
 
 Explore the tables below to find the right tools for your AI projects. Most are open-source and completely free!
-<br>
-Although I limited to 3-4 entries per category based on popularity and maturity, there are lot more available!
+
+Although entries per category are limited to 3-4 based on popularity and maturity, there are lot more available!
  
 ### AI Prototype App Builders (Low-code/no-code)
 
@@ -79,7 +77,7 @@ Although I limited to 3-4 entries per category based on popularity and maturity,
 | BeeAI              | Open-Source    | Build production-ready multi-agent systems in Python or TypeScript. | [BeeAI](https://github.com/i-am-bee/beeai-framework) |
 <br>
 
-### AI Agents (SDLC)
+### AI Agents (SDLC use)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -95,7 +93,15 @@ Although I limited to 3-4 entries per category based on popularity and maturity,
 | AutoGPT             | Open-Source    | A platform to create, deploy, and manage continuous AI agents that automate workflows. | [AutoGPT](https://agpt.co)|
 | Dify.ai            | Open-Source    | An LLM app development platform for agentic AI workflow, RAG pipeline, agent capabilities.   | [Dify](https://dify.ai)  |
 | Copilotkit.ai      | Open-Source    | In-app AI chatbots. CoAgents -- Deeply embed vertical AI agents (powered by LangGraph). | [Copilotkit](https://www.copilotkit.ai) |
+<br>
 
+### AI Development (Special use):
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| PocketFlow             | Open-Source    | A 100-line minimalist LLM framework for (Multi-)Agents, Task Decomposition, RAG, etc. | [PocketFlow](https://github.com/The-Pocket/PocketFlow)|
+| Graphiti            | Open-Source    | Framework for building and querying Real-Time Knowledge Graphs, for AI Agents. | [Graphiti](https://github.com/getzep/graphiti)  |
+| Mem0     | Open-Source    | Mem0 enhances AI assistants and agents with an intelligent memory layer. | [Mem0](https://github.com/mem0ai/mem0) |
 
 
 <details>
