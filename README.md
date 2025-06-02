@@ -27,9 +27,10 @@ Let's start 🏹
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| n8n.io                   | Open-Source    | n8n is a no-code workflow automation platform that gives dev teams the flexibility of code.   | [n8n.io](https://n8n.io)         |
-| Langflow                 | Open-Source    | Langflow is a low-code AI builder for agentic and retrieval-augmented generation (RAG) apps.  | [Langflow](https://www.langflow.org)       |
-| Flowise.ai              | Open-Source    | Flowise is low-code tool for developers to build customized LLM orchestration flow, AI agents. | [Flowise](https://flowiseai.com)    |
+| n8n.io                   | Open-Source    | n8n is a no-code workflow automation platform that gives dev teams the flexibility of code. Custom license. Free for 'internal' business purposes or for non-commercial or personal use.  | [n8n.io](https://n8n.io)         |
+| Langflow                 | Open-Source    | Langflow is a low-code AI builder for agentic and retrieval-augmented generation (RAG) apps. Under MIT license. Bought by DataStax in 2024. IBM acquired DataStax in early 2025. | [Langflow](https://www.langflow.org)       |
+| Flowise              | Open-Source    | Flowise is low-code tool for developers to build customized LLM orchestration flow, AI agents. Source code is under Apache license except enterprise directory and certain source files. | [Flowise](https://flowiseai.com)    |
+| Make                | Subscription    | Automate workflows, manage AI agents, and power innovation — on visually intuitive no-code development platform. Make is owned by Celonis, the leading process management company. | [Make](https://www.make.com/)    |
 <br>
 
 * ### AI Agent Builders (Low-code/no-code)
