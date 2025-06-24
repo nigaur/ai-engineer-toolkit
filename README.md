@@ -157,6 +157,7 @@ Let's start 🏹
 | vLLM             | Open-Source    | A high-throughput and memory-efficient inference and serving engine for LLMs. | [vLLM](https://github.com/vllm-project/vllm)|
 | OpenLLM           | Open-Source    | Run any open-source LLMs (DeepSeek, Llama...) as OpenAI compatible API endpoint in cloud. | [OpenLLM](https://github.com/bentoml/OpenLLM)  |
 | LightLLM          | Open-Source    | A LLM inference and serving framework with lightweight design and high-speed performance. | [LightLLM](https://github.com/ModelTC/lightllm) |
+| Ollama          | Open-Source    | A lightweight, extensible framework for building and running language models on the local machine. | [Ollama](https://github.com/ollama/ollama) |
 <br>
 
 * ### LLM Inference Platforms
