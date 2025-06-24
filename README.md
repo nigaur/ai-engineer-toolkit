@@ -194,7 +194,7 @@ Let's start 🏹
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | MCP        | Open-Source    | MCP is an open protocol that standardizes how applications provide context to LLMs. | [MCP](https://modelcontextprotocol.io)|
 | A2A            | Open-Source    | Multimodal communication between agents without sharing memory, resources and tools. | [A2A](https://google.github.io/A2A)  |
-| OWASP          | Open-Source    | Top 10 Risk & Mitigations for LLMs and Gen AI Applications. | [OWASP](https://genai.owasp.org/llm-top-10) |
+| AG-UI          | Open-Source    | AG-UI is a lightweight, event-based protocol that standardizes how AI agents connect to front-end applications. | [AG_UI](https://github.com/ag-ui-protocol/ag-ui) |
 <br>
 
 * ### Python App Builders
