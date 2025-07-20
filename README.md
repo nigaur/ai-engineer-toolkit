@@ -72,7 +72,7 @@ Let's start 🏹
 | Microsoft UFO            | Open-Source    | UI automation (windows apps). Use it for legacy system interactions - Excel, CRMs, desktop tools. | [UFO](https://github.com/microsoft/UFO)|
 | LiveKits Agents          | Open-Source    | For real-time voice agents. Power agents that talk, respond and interact in live settings. | [LiveKits](https://github.com/livekit/agents)|
 | Agent Zero          | Open-Source    | For building custom modular agents. Ideal for research projects and internal tool building. | [Agent Zero](https://github.com/frdel/agent-zero)|
-| SuperAGI            | Subscription    | An autonomous AI agent framework to build, manage & run useful autonomous agents quickly and reliably. | [SuperAGI](https://superagi.com)|
+| SuperAGI            | Subscription    | An autonomous AI agent framework to build, manage & run autonomous agents quickly and reliably. | [SuperAGI](https://superagi.com)|
 <br>
 
 * ### AI Agent Development SDKs
@@ -204,7 +204,7 @@ Let's start 🏹
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
 | MCP        | Open-Source    | MCP is an open protocol that standardizes how applications provide context to LLMs. | [MCP](https://modelcontextprotocol.io)|
 | A2A            | Open-Source    | Multimodal communication between agents without sharing memory, resources and tools. | [A2A](https://google.github.io/A2A)  |
-| AG-UI          | Open-Source    | AG-UI is a lightweight, event-based protocol that standardizes how AI agents connect to front-end applications. | [AG_UI](https://github.com/ag-ui-protocol/ag-ui) |
+| AG-UI          | Open-Source    | A lightweight, event-based protocol that standardizes how AI agents connect to front-end apps. | [AG_UI](https://github.com/ag-ui-protocol/ag-ui) |
 <br>
 
 * ### Python App Builders
