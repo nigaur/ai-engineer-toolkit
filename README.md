@@ -37,10 +37,10 @@ Let's start 🏹
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| Relevance             | Subscription    | Relevance AI is a low-code platform for building and deploying AI agents powered by LLMs. | [Relevance](https://relevanceai.com)      |
+| Writer                 | Subscription    | Enterprise grade agent builder platform for content operations, risk-management and compliance.  | [Writer](https://writer.com)       |
 | Lyzr                 | Subscription    | Lyzr Studio is a modular framework for developing role-specific agents powered by LLMs.  | [Lyzr](https://www.lyzr.ai)       |
+| Relevance             | Subscription    | Relevance AI is a low-code platform for building and deploying AI agents powered by LLMs. | [Relevance](https://relevanceai.com)      |
 | AgentGPT              | Open-Source    | AgentGPT is an open-source AI platform for building and deploying autonomous agents. | [AgentGPT](https://github.com/reworkd/AgentGPT)    |
-| AutoAgent            | Open-Source   | Automated and No-Code LLM agent framework based on https://arxiv.org/abs/2502.05957 | [AutoAgent](https://github.com/HKUDS/AutoAgent)  |
 <br>
 
 * ### AI Orchestration Frameworks (added 'agentic' capability)
@@ -63,6 +63,16 @@ Let's start 🏹
 | AutoGen              | Open-Source    | AutoGen is an open-source framework for building AI agent systems from Microsoft. | [AutoGen](https://github.com/microsoft/autogen) |
 | Agno              | Open-Source    | Agno is a lightweight, high-performance library for building Agents. | [Agno](https://github.com/agno-agi/agno) |
 | PraisonAI            | Open-Source   | PraisonAI is a Multi-AI Agents framework with self-reflection to create AI Agents. | [PraisonAI](https://github.com/MervinPraison/PraisonAI)  |
+<br>
+
+* ### AI Multi-Agents Frameworks (speciality use cases)
+
+| Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
+|--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
+| Microsoft UFO            | Open-Source    | UI automation (windows apps). Use it for legacy system interactions - Excel, CRMs, desktop tools. | [UFO](https://github.com/microsoft/UFO)|
+| LiveKits Agents          | Open-Source    | For real-time voice agents. Power agents that talk, respond and interact in live settings. | [LiveKits](https://github.com/livekit/agents)|
+| Agent Zero          | Open-Source    | For building custom modular agents. Ideal for research projects and internal tool building. | [Agent Zero](https://github.com/frdel/agent-zero)|
+| SuperAGI            | Subscription    | An autonomous AI agent framework to build, manage & run useful autonomous agents quickly and reliably. | [SuperAGI](https://superagi.com)|
 <br>
 
 * ### AI Agent Development SDKs
@@ -106,7 +116,7 @@ Let's start 🏹
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| AutoGPT             | Open-Source    | A platform to create, deploy, and manage continuous AI agents that automate workflows. | [AutoGPT](https://agpt.co)|
+| AutoGPT             | Open-Source    | A platform to create, deploy, and manage continuous AI agents that automate workflows. | [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)|
 | Dify.ai            | Open-Source    | An LLM app development platform for agentic AI workflow, RAG pipeline, agent capabilities.   | [Dify](https://dify.ai)  |
 | Copilotkit.ai      | Open-Source    | In-app AI chatbots. CoAgents -- Deeply embed vertical AI agents (powered by LangGraph). | [Copilotkit](https://www.copilotkit.ai) |
 | Weave           | Open-Source    | Weave (by Weights & Biases) is a toolkit for developing, deploying AI-powered applications.   | [Weave](https://weave-docs.wandb.ai)  |
@@ -121,13 +131,13 @@ Let's start 🏹
 | GraphRAG              | Open-Source    | A modular graph-based Retrieval-Augmented Generation (RAG) system | [GraphRAG](https://github.com/microsoft/graphrag) |
 <br>
 
-* ### AI Frameworks (Special use)
+* ### AI Frameworks (Specific tech use)
 
 | Tool Name                | Cost Model   | Usage                                                                                             | Link                                   |
 |--------------------------|--------------|---------------------------------------------------------------------------------------------------|----------------------------------------|
-| PocketFlow             | Open-Source    | A 100-line minimalist LLM framework for (Multi-)Agents, Task Decomposition, RAG, etc. | [PocketFlow](https://github.com/The-Pocket/PocketFlow)|
 | Graphiti            | Open-Source    | Framework for building and querying Real-Time Knowledge Graphs, for AI Agents. | [Graphiti](https://github.com/getzep/graphiti)  |
 | Mem0               | Open-Source    | Mem0 enhances AI assistants and agents with an intelligent memory layer. | [Mem0](https://github.com/mem0ai/mem0) |
+| PocketFlow         | Open-Source    | A 100-line minimalist LLM framework for (Multi-)Agents, Task Decomposition, RAG, etc. | [PocketFlow](https://github.com/The-Pocket/PocketFlow)|
 <br>
 
 * ### LLM Engineering and LLMOps
